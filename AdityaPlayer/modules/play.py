@@ -195,8 +195,8 @@ def r_ply(type_):
                 InlineKeyboardButton("📝 Ƥɭɑƴɭɩsʈ 📝", "playlist"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.m/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
             ],
             [InlineKeyboardButton("❌ Ƈɭøsɘ ❌", "cls")],
         ]
@@ -416,8 +416,8 @@ async def m_cb(b, cb):
                     InlineKeyboardButton("📝 Ƥɭɑƴɭɩsʈ 📝", "playlist"),
                 ],
                 [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
                ],
                 [InlineKeyboardButton("❌ Ƈɭøsɘ ❌", "cls")],
             ]
@@ -554,15 +554,15 @@ async def yt(_, message: Message):
                     InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
                ],
                 [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
             ]
         )
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/793b7adbe8f4ca26bd7d9.png"
+        thumb_name = "https://telegra.ph/file/9e3be6bd0129d79165d12.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Łøƈɑɭɭƴ Ʌɗɗɘɗ"
@@ -605,8 +605,8 @@ async def yt(_, message: Message):
                     InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
                 ],
                 [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
             ]
@@ -688,8 +688,8 @@ async def yt(_, message: Message):
                         InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
                     ],
                     [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
                     ],
                     [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
                 ]
@@ -835,8 +835,8 @@ async def play(_, message: Message):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
@@ -977,8 +977,8 @@ async def deezer(client: Client, message_: Message):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
@@ -1115,8 +1115,8 @@ async def jiosaavn(client: Client, message_: Message):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
@@ -1182,7 +1182,7 @@ async def lol_cb(b, cb):
     if cb.from_user.id != useer_id:
         await cb.answer("❌ Yøʋ Ʌɩɳ Ɲøʈ Ƭɦɘ Ƥɘɤsøɳ Wɦø Ʀɘʠʋɘsʈɘɗ ʈø Ƥɭɑƴ Ƭɦɘ Søɳʛ ❗️", show_alert=True)
         return
-    await cb.message.edit("**🎧 Ʌɗɩtyɑ Ƥɭɑyeɤ ɩs Ɲøω Sʈɑɤʈɩɳʛ ...**")
+    await cb.message.edit("**🎧 ƇƠƁƦƛ Ƥɭɑyeɤ ɩs Ɲøω Sʈɑɤʈɩɳʛ ...**")
     x=int(x)
     try:
         useer_name = cb.message.reply_to_message.from_user.first_name
@@ -1220,8 +1220,8 @@ async def lol_cb(b, cb):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/MISTY_SUPORT"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/MISTY_SUPORTER"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
